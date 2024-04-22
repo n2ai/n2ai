@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n2ai" alt="n2ai" /></a> </p>
 
-- 🔭 I’m currently working on [Vuez](https://github.com/quachthientai/cms-vue-template)
+- 🔭 I’m currently working on [Vuez](https://github.com/quachthientai/cms-vue-template), XTendBOT
 
 - 🌱 I’m currently learning **Next.JS, AWS**
 
