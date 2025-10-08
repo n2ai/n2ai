@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doan Long Hai Trinh</h1>
-<h3 align="center">Passionate Full-stack Developer, Senior in Computer Science Major</h3>
+<h3 align="center">Passionate Full-stuck Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n2ai&label=Profile%20views&color=0e75b6&style=flat" alt="n2ai" /> </p>
 
